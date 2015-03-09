@@ -30,5 +30,9 @@ Today git. Git today.
 
 ##Notes 3.9.2015
 
+####Sample image for use
+
 ![IMAGE](thermal1.jpg)
+
+*TEST SCRIPT*
 
