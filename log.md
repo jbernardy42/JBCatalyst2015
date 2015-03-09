@@ -36,8 +36,10 @@ Today git. Git today.
 
 *TEST SCRIPT*
 
-*ACTUAL NOTES* 
+*ACTUAL NOTES*
+ 
 **Problematic** - problems are generative
+
 where on the spectrum is computer vision compelling?
 
 1. *Instrumentalism*-Turn this into that. Get things done!
