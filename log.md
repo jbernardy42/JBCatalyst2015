@@ -52,3 +52,11 @@ Photogrammetry
 
 Building Photo Scan
 
+**FOR TOMORROW**
+
+9am---meet in lobby
+By 10:30---2 rounds of photos---
+
+1) one group repo (divide into sections)
+2) round of individual repos
+
