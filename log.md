@@ -30,5 +30,5 @@ Today git. Git today.
 
 ##Notes 3.9.2015
 
-![IMAGE](themal1.JPEG)
+![IMAGE](thermal1.jpg)
 
