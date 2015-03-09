@@ -28,3 +28,7 @@ Today git. Git today.
 
 #CATALYST WORKSHOP (2015)
 
+##Notes 3.9.2015
+
+![IMAGE](themal1.JPEG)
+
