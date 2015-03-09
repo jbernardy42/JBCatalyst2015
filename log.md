@@ -36,3 +36,16 @@ Today git. Git today.
 
 *TEST SCRIPT*
 
+*ACTUAL NOTES* 
+####Problematic - problems are generative
+where on the spectrum is computer vision compelling?
+
+1. *Instrumentalism*-Turn this into that. Get things done!
+2. *Determinism* - Social or cultural change is done by technology
+3. *Positivism* -  Social or cultural problems are solved through technology
+
+###Project Notes
+
+Photogrammetry
+Building Photo Scan
+
