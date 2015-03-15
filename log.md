@@ -117,32 +117,32 @@ By 10:30---2 rounds of photos---
 **Photographed Places**
 
 1. STSS ~30'
-* Equal step photography
-* Exterior
-* Brick, glass, metallic
+ Equal step photography
+ Exterior
+ Brick, glass, metallic
 
 2. Weisman Art Museum ~100'
-* Equal step photo
-* Exterior
-* Brick, metal, panel shiny
-* Curved form
+ Equal step photo
+ Exterior
+ Brick, metal, panel shiny
+ Curved form
 
 3. Nils Hasselmo Hall
-* Interior
-* Panorama
-* Open Atrium
+ Interior
+ Panorama
+ Open Atrium
 
 4. Keller Hall ~50'
-* Exterior
-* Reflective Brick
-* Panorama
-* Tall Space
+ Exterior
+ Reflective Brick
+ Panorama
+ Tall Space
 
 5. Amundson Hall Sculpture ~10'
-* Exterior
-* Walk around
-* Patena Copper
-* How an object is captured
+ Exterior
+ Walk around
+ Patena Copper
+ How an object is captured
 
 ##Notes 3.11.15
 
