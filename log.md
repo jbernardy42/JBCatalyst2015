@@ -144,6 +144,19 @@ Amundson Hall Sculpture ~10'
 * Patena Copper
 * How an object is captured
 
+**IMAGES FROM EXPLORATION**
+![IMAGE](images/DSC01829.jpg)
+![IMAGE](images/Weisman PhotoScan.jpg)
+
+![IMAGE](images/DSC01849.jpg)
+![IMAGE](images/Copper Sculpture PhotoScan.jpg)
+
+![IMAGE](images/DSC01819.jpg)
+![IMAGE](images/STSS PhotoScan.jpg)
+
+
+
+
 ##Notes 3.11.15
 
  Pillsbury Hall Archway and Rec Center photos
@@ -154,6 +167,12 @@ Amundson Hall Sculpture ~10'
 * Decimate in Rhino
 * Save as OBJ, Import Rhino, ReduceMesh Command
 * 20-100faces
+
+
+**IMAGES FROM EXPLORATION**
+![IMAGE](images/DSC01864.jpg)
+![IMAGE](images/Archway PhotoScan.jpg)
+
 
 ##Notes 3.12.15
 
@@ -167,10 +186,9 @@ Amundson Hall Sculpture ~10'
 
 **FOCUS**
 * Transversal
-* ffordance (of space)
+* Affordance (of space)
 * Blur and Equality
 * Duplication (of ornamentation)
-
 * What are the main ideas driving your work?
 * How/what role does movement play in the process? To what extent are the models about movement? About vision?
 * Collage in 3D? Attention to ornament?
@@ -178,19 +196,25 @@ Amundson Hall Sculpture ~10'
 * Are we modelling affordances
 
 
-*MY BOARDS*
+**IMAGES FROM EXPLORATION**
+![IMAGE](images/DSC01872.jpg)
+![IMAGE](images/Archway31215.jpg)
+
+**MY BOARDS**
+
 Blur and Equality
 
 Project: Video, model, process
 
-*CV cannot distringuish between background and objects
-*Humans can
+* CV cannot distringuish between background and objects
+* Humans can
 
-*Blur*: Vegetation
-        Copper sculpture
-        Pepper
+*Blur* : 
+* Vegetation
+* Copper sculpture
+* Pepper
 
-*Equality* - CV does not have a bias towards background and foreground
+*Equality* : CV does not have a bias towards background and foreground
 
 As humans we perceive a direct focus whereas a computer is unbiased
 
@@ -218,3 +242,8 @@ Richness of environment
 Plan of path we took
 
 Laser File for model
+
+![IMAGE](images/DSC01946.jpg)
+![IMAGE](images/FINAL ARCH MASH.jpg)
+
+
