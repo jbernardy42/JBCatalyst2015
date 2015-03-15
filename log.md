@@ -205,7 +205,8 @@ STSS
 
 
 **IMAGES FROM EXPLORATION**
-![IMAGE](images/ARCH1.jpg)
+
+![IMAGE](images/ARCH1.JPG)
 ![IMAGE](images/Archway31215.jpg)
 
 **MY BOARDS**
