@@ -147,14 +147,17 @@ Amundson Hall Sculpture ~10'
 **IMAGES FROM EXPLORATION**
 
 Weisman Art Museum
+
 ![IMAGE](images/DSC01829.jpg)
 ![IMAGE](images/WEISMAN.jpg)
 
 Amundson Hall Copper Sculpture
-![IMAGE](images/DSC01849.jpg)
-![IMAGE](images/COPPER.jpg)
 
-STSS 
+![IMAGE](images/DSC01849.jpg)
+![IMAGE](images/COPPER.JPEG)
+
+STSS
+ 
 ![IMAGE](images/DSC01819.jpg)
 ![IMAGE](images/STSS.jpg)
 
@@ -174,6 +177,7 @@ STSS
 
 
 **IMAGES FROM EXPLORATION**
+
 ![IMAGE](images/ARCH2.jpg)
 ![IMAGE](images/Archway PhotoScan.jpg)
 
