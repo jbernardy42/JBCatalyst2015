@@ -64,7 +64,7 @@ By 10:30---2 rounds of photos---
 
 ##Notes 3.10.15
 
-###Initial thoughts on the program
+####Initial thoughts on the program
 
 1. Detail Hard
 2. Reflection/sunlight are problems
@@ -85,14 +85,14 @@ By 10:30---2 rounds of photos---
 *Object as a material*
 *Where is computer vision compelling on a spectrum of speculation and representation?*
 
--Model the courtyard accurately (using photogrammetry)
--Past, present, future models
--The manual and the automated
--Expectations of representations
--values and memory associated with vision
--model as wrapper
--Interior ---Exterior
--Transparent architecture; openness not shaady corners
+*-Model the courtyard accurately (using photogrammetry)
+*-Past, present, future models
+*-The manual and the automated
+*-Expectations of representations
+*-values and memory associated with vision
+*-model as wrapper
+*-Interior ---Exterior
+*-Transparent architecture; openness not shaady corners
 
 
 **Prompt**: How compelling is computer vision on a spectrum of speculation and representation.
@@ -114,46 +114,46 @@ By 10:30---2 rounds of photos---
 7. Output model (OBJ, STL)
 
 
-*Photographed Places*
+**Photographed Places**
 
 1. STSS ~30'
-	Equal step photography
-	Exterior
-	Brick, glass, metallic
+	*-Equal step photography
+	*-Exterior
+	*-Brick, glass, metallic
 
 2. Weisman Art Museum ~100'
-	Equal step photo
-	Exterior
-	Brick, metal, panel shiny
-	Curved form
+	*-Equal step photo
+	*-Exterior
+	*-Brick, metal, panel shiny
+	*-Curved form
 
 3. Nils Hasselmo Hall
-	Interior
-	Panorama
-	Open Atrium
+	*-Interior
+	*-Panorama
+	*-Open Atrium
 
 4. Keller Hall ~50'
-	Exterior
-	Reflective Brick
-	Panorama
-	Tall Space
+	*-Exterior
+	*-Reflective Brick
+	*-Panorama
+	*-Tall Space
 
 5. Amundson Hall Sculpture ~10'
-	Exterior
-	Walk around
-	Patena Copper
-	How an object is captured
+	*-Exterior
+	*-Walk around
+	*-Patena Copper
+	*-How an object is captured
 
 ##Notes 3.11.15
 
  Pillsbury Hall Archway and Rec Center photos
-	Drone Session
-	Entrances
+	*-Drone Session
+	*-Entrances
 
-Make own stitch
-Decimate in Rhino
-Save as OBJ, Import Rhino, ReduceMesh Command
-20-100faces
+*Make own stitch
+*Decimate in Rhino
+*Save as OBJ, Import Rhino, ReduceMesh Command
+*20-100faces
 
 ##Notes 3.12.15
 
