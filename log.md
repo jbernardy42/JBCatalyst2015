@@ -151,8 +151,11 @@ By 10:30---2 rounds of photos---
 	*Entrances
 
 *Make own stitch
+
 *Decimate in Rhino
+
 *Save as OBJ, Import Rhino, ReduceMesh Command
+
 *20-100faces
 
 ##Notes 3.12.15
