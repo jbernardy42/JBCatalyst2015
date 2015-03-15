@@ -148,18 +148,18 @@ Amundson Hall Sculpture ~10'
 
 Weisman Art Museum
 
-![IMAGE](images/DSC01829.jpg)
-![IMAGE](images/WEISMAN.jpg)
+![IMAGE](images/DSC01829.JPG)
+![IMAGE](images/Weisman PhotoScan.jpg)
 
 Amundson Hall Copper Sculpture
 
-![IMAGE](images/DSC01849.jpg)
-![IMAGE](images/COPPER.JPEG)
+![IMAGE](images/DSC01849.JPG)
+![IMAGE](images/Copper Sculpture PhotoScan.jpg)
 
 STSS
  
-![IMAGE](images/DSC01819.jpg)
-![IMAGE](images/STSS.jpg)
+![IMAGE](images/DSC01819.JPG)
+![IMAGE](images/STSS PhotoScan.jpg)
 
 
 
@@ -178,7 +178,7 @@ STSS
 
 **IMAGES FROM EXPLORATION**
 
-![IMAGE](images/ARCH2.jpg)
+![IMAGE](images/ARCH2.JPG)
 ![IMAGE](images/Archway PhotoScan.jpg)
 
 
@@ -252,7 +252,7 @@ Plan of path we took
 
 Laser File for model
 
-![IMAGE](images/FINAL.jpg)
+![IMAGE](images/FINAL.JPG)
 ![IMAGE](images/FINAL ARCH MASH.jpg)
 
 
