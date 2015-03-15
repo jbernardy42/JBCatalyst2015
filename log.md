@@ -145,14 +145,18 @@ Amundson Hall Sculpture ~10'
 * How an object is captured
 
 **IMAGES FROM EXPLORATION**
+
+Weisman Art Museum
 ![IMAGE](images/DSC01829.jpg)
-![IMAGE](images/Weisman PhotoScan.jpg)
+![IMAGE](images/WEISMAN.jpg)
 
+Amundson Hall Copper Sculpture
 ![IMAGE](images/DSC01849.jpg)
-![IMAGE](images/Copper Sculpture PhotoScan.jpg)
+![IMAGE](images/COPPER.jpg)
 
+STSS 
 ![IMAGE](images/DSC01819.jpg)
-![IMAGE](images/STSS PhotoScan.jpg)
+![IMAGE](images/STSS.jpg)
 
 
 
@@ -170,7 +174,7 @@ Amundson Hall Sculpture ~10'
 
 
 **IMAGES FROM EXPLORATION**
-![IMAGE](images/DSC01864.jpg)
+![IMAGE](images/ARCH2.jpg)
 ![IMAGE](images/Archway PhotoScan.jpg)
 
 
@@ -197,7 +201,7 @@ Amundson Hall Sculpture ~10'
 
 
 **IMAGES FROM EXPLORATION**
-![IMAGE](images/DSC01872.jpg)
+![IMAGE](images/ARCH1.jpg)
 ![IMAGE](images/Archway31215.jpg)
 
 **MY BOARDS**
@@ -243,7 +247,7 @@ Plan of path we took
 
 Laser File for model
 
-![IMAGE](images/DSC01946.jpg)
+![IMAGE](images/FINAL.jpg)
 ![IMAGE](images/FINAL ARCH MASH.jpg)
 
 
