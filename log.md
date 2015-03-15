@@ -147,13 +147,13 @@ By 10:30---2 rounds of photos---
 ##Notes 3.11.15
 
  Pillsbury Hall Archway and Rec Center photos
-	*Drone Session
-	*Entrances
+	* Drone Session
+	* Entrances
 
-*Make own stitch
-*Decimate in Rhino
-*Save as OBJ, Import Rhino, ReduceMesh Command
-*20-100faces
+* Make own stitch
+* Decimate in Rhino
+* Save as OBJ, Import Rhino, ReduceMesh Command
+* 20-100faces
 
 ##Notes 3.12.15
 
